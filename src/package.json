@@ -1,6 +1,18 @@
 {
-  "name": "ng2-file-upload",
-  "version": "1.3.0",
+  "name": "@koenvanderlinden/ng2-file-upload",
+  "version": "1.3.1",
+  "author": {
+    "name": "Koen van der Linden",
+    "email": "vanderlinden.koen@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/koenvanderlinden/ng2-file-upload.git"
+  },
+  "bugs": {
+    "url": "https://github.com/koenvanderlinden/ng2-file-upload/issues"
+  },
+  "homepage": "https://github.com/koenvanderlinden/ng2-file-upload#readme",
   "peerDependencies": {
     "@angular/common": "*",
     "@angular/core": "*"
