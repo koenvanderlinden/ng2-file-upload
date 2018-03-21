@@ -1,3 +1,9 @@
+<a name="1.3.3"></a>
+## [1.3.3](https://github.com/koenvanderlinden/ng2-file-upload/compare/v1.3.2...v1.3.3) (2018-03-21)
+
+* **file-upload** add file type .dwf
+* **docs** Update simple demo. Also hides table headers with isHTML5 option.
+
 
 <a name="1.3.2"></a>
 # [1.3.2](https://github.com/koenvanderlinden/ng2-file-upload/compare/v1.2.0...v1.3.2) (2018-03-18)
