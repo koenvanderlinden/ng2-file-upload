@@ -1,3 +1,12 @@
+<a name="1.3.4"></a>
+## [1.3.4](https://github.com/koenvanderlinden/ng2-file-upload/compare/v1.3.3...v1.3.4) (2018-04-03)
+
+
+### Features
+
+* **fileUploader:** Added queueMaxSizeLimit, to limit the file size of all items in the uploadqueue. ([385c322](https://github.com/koenvanderlinden/ng2-file-upload/commit/385c322))
+
+
 <a name="1.3.3"></a>
 ## [1.3.3](https://github.com/koenvanderlinden/ng2-file-upload/compare/v1.3.2...v1.3.3) (2018-03-21)
 
